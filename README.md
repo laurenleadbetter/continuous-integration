@@ -22,7 +22,7 @@ The workflow is summarized in the following diagram:
 <img src=diagram.png?raw=true width=500px>
 </p>
 
-In this assignment, you will create a sample project that uses CI to run some simple tests.
+In this assignment, you will create a sample project that uses CI to run simple tests.
 There is very little coding in this assignment, and the purpose is to ensure that you understand the mechanics of how to get CI running correctly.
 
 ## Instructions
