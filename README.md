@@ -7,7 +7,7 @@ CI tools run your code's test cases automatically when you commit code to your r
 and let you know if anything is broken.
 
 In this class, we will be using GitHub Actions for CI.
-It is a standard tool used by many open source applications in order to maintain code quality.
+CI is a standard tool used by many open source applications in order to maintain code quality.
 Whenever you submit a pull request to an open source project,
 it will have to pass the CI tests in order for the maintainer to accept your changes.
 This process ensures that thousands of developers can work together on the same project without breaking each other's code.
